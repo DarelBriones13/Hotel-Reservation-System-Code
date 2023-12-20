@@ -1,0 +1,10 @@
+RESERVATION LIST INFORMATION
+--------------------------
+Fullname: Darel Briones
+Contact Number: 09152113686
+Email: darelbriones@gmail.com
+Email Address: lunao
+Check-in Date: Wed Dec 20 20:14:00 SGT 2023
+Check-out Date: Thu Dec 21 20:14:02 SGT 2023
+Room Type Preference: Single
+--------------------------
